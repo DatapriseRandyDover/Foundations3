@@ -28,43 +28,44 @@ If the following templates are deployed as is they will deploy a /20 for all sub
 | /26 |	BastionSubnet |	None |	10.0.14.0/26 |
 
 # Services Deployment with Gateway
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fservicesdeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fservicesdeploy.json)
 
 # Services Deployment with Basic Gateway
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2FservicesbasicGWdeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2FservicesbasicGWdeploy.json)
 
 
 # Services Deployment with no Gateway
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2FservicesnoGWdeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2FservicesnoGWdeploy.json)
 
 
 # Production Deployment
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fproddeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fproddeploy.json)
 
 
 # Production without Bastion Subnet
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fprodnobastiondeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fprodnobastiondeploy.json)
 
 
 # Development Deployment
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fdevdeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fdevdeploy.json)
 
 
-# AVD Deployment
+# Development Deployment without Bastion Subnet
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fdevnobastiondeploy.json)
+[![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Fdevnobastiondeploy.json)
 
+
+# AVD Deployment
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Favddeploy.json)
 [![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Favddeploy.json)
 
 
+# AVD Deployment without Bastion Subnet
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Favdnobastiondeploy.json)
+[![Deploy To Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundations3%2Fmain%2Favdnobastiondeploy.json)
